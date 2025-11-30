@@ -1,5 +1,5 @@
 ## Aim:
-To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
+To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically
 
 
 ##  Apparatus Required:
